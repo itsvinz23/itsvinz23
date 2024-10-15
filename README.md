@@ -85,3 +85,7 @@
 [![Epic Games Free Games](https://img.shields.io/badge/Epic%20Games-Free%20Games-313131?style=flat-square&logo=epicgames)](https://www.epicgames.com/store/en-US/free-games)
 
 Thank you for visiting my profile! Feel free to reach out and connect! 🤝
+
+### 🕹️ Play a Mini Game:
+[![Snake Game](https://github.com/MrVinzSL/MrVinzSL/blob/output/github-contribution-grid-snake.svg)](https://github.com/MrVinzSL)
+
