@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me:
-- 💻 Passionate **Software Engineer** skilled in multiple languages & tools.
+- 💻 Passionate **Software Engineer - Undergraduate** skilled in multiple languages & tools.
 - 🎨 **Creative Editor** with experience in Adobe AE, Premiere Pro, Photoshop, and more.
 - 🎧 **Music Producer** with a love for mixing and creating beats.
 - 🤖 **Bot Developer** with expertise in **Discord** and **WhatsApp bots**.
@@ -15,19 +15,19 @@
 
 ### 🛠️ Skills & Tools:
 **Programming & Development:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Software & IDEs:**  
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/) [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
 **Operating Systems:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/) [![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)](https://www.centos.org/)
 
 **Editing Tools:**  
-![Adobe After Effects](https://img.shields.io/badge/Adobe_AE-CF96FD?style=flat&logo=adobe-after-effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white) ![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-5D9B6D?style=flat&logo=wondersharefilmora&logoColor=white)
+[![Adobe After Effects](https://img.shields.io/badge/Adobe_AE-CF96FD?style=flat&logo=adobe-after-effects&logoColor=white)](https://www.adobe.com/products/aftereffects.html) [![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html) [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)](https://www.capcut.com/) [![Wondershare Filmora](https://img.shields.io/badge/Wondershare_Filmora-5D9B6D?style=flat&logo=wondersharefilmora&logoColor=white)](https://filmora.wondershare.com/)
 
 **Music Production:**  
-![FL Studio](https://img.shields.io/badge/FL_Studio-FFD700?style=flat&logo=flstudio&logoColor=white) ![Virtual DJ](https://img.shields.io/badge/VirtualDJ-CB2027?style=flat&logo=virtualdj&logoColor=white) ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
+[![FL Studio](https://img.shields.io/badge/FL_Studio-FFD700?style=flat&logo=flstudio&logoColor=white)](https://www.image-line.com/flstudio/) [![Virtual DJ](https://img.shields.io/badge/VirtualDJ-CB2027?style=flat&logo=virtualdj&logoColor=white)](https://www.virtualdj.com/) [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
 
 ---
 
