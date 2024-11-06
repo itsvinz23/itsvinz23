@@ -29,22 +29,6 @@
 **Music Production:**  
 [![FL Studio](https://img.shields.io/badge/FL_Studio-FFD700?style=flat&logo=flstudio&logoColor=white)](https://www.image-line.com/flstudio/) [![Virtual DJ](https://img.shields.io/badge/VirtualDJ-CB2027?style=flat&logo=virtualdj&logoColor=white)](https://www.virtualdj.com/) [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
 
----
-
-### 📲 Connect with Me:
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vinzbeats.13)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/JaninduVinsura)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.vinz23/)
-- [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mr.vinz23)
-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vinzbeats.13)
-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/tobi23_vinsura)
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8BEuUXMHCU)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrVinzSL)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94775775625)
-- [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/Lctnkdfr2)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_Vinz3)
-
----
 
 ### 🎵 My YouTube Music Playlist:
 [![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/playlist?list=PLjKn8_irg8xwIfpAYkkWWIOK9-N0-ZUy6&si=cQMFbjDFHGy-8kca)
@@ -88,4 +72,23 @@ Thank you for visiting my profile! Feel free to reach out and connect! 🤝
 
 ### 🕹️ Play a Mini Game:
 [![Snake Game](https://github.com/MrVinzSL/MrVinzSL/blob/output/github-contribution-grid-snake.svg)](https://github.com/MrVinzSL)
+
+
+---
+
+### 📲 Connect with Me:
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vinzbeats.13)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/JaninduVinsura)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.vinz23/)
+- [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mr.vinz23)
+- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vinzbeats.13)
+- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/tobi23_vinsura)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8BEuUXMHCU)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrVinzSL)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94775775625)
+- [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/Lctnkdfr2)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_Vinz3)
+
+---
+
 
