@@ -43,16 +43,16 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrVinzSL)
+![Profile Views](https://komarev.com/ghpvc/?username=itsvinz23)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrVinzSL&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsvinz23&theme=radical&hide_border=true)
 
 ---
 
 ### 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrVinzSL&show_icons=true&theme=radical&count_private=true" alt="Vinz's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVinzSL&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsvinz23&show_icons=true&theme=radical&count_private=true" alt="Vinz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvinz23&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ### 🌤️ Current Weather in Ambalangoda, Sri Lanka:
@@ -71,7 +71,7 @@
 Thank you for visiting my profile! Feel free to reach out and connect! 🤝
 
 ### 🕹️ Play a Mini Game:
-[![Snake Game](https://github.com/MrVinzSL/MrVinzSL/blob/output/github-contribution-grid-snake.svg)](https://github.com/MrVinzSL)
+[![Snake Game](https://github.com/itsvinz23/itsvinz23/blob/output/github-contribution-grid-snake.svg)](https://github.com/itsvinz23)
 
 
 ---
@@ -84,7 +84,7 @@ Thank you for visiting my profile! Feel free to reach out and connect! 🤝
 - [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vinzbeats.13)
 - [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/tobi23_vinsura)
 - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8BEuUXMHCU)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrVinzSL)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsvinz23)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94775775625)
 - [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/Lctnkdfr2)
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_Vinz3)
